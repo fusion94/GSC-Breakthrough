@@ -1,5 +1,4 @@
-
-### What is GSC MoHAA?
+### What is GSC Breakthrough?
 
 A Game Server Configulator (GSC) is a tool that offers the user a way to configure and launch a (multiplayer) 
 game server that runs in a LAN or online. The tool offers various options that are standard for the corresponding 
