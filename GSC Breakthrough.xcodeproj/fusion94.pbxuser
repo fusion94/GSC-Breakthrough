@@ -1,0 +1,90 @@
+// !$*UTF8*$!
+{
+	20577D5605D57BB00029B2C1 /* GSC Breakthrough */ = {
+		activeExec = 0;
+		executables = (
+			46AA42880D69399F00234470 /* GSC Breakthrough */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Development;
+		activeExecutable = 46AA42880D69399F00234470 /* GSC Breakthrough */;
+		activeTarget = 20577D5605D57BB00029B2C1 /* GSC Breakthrough */;
+		codeSenseManager = 46AA42930D6939AD00234470 /* Code sense */;
+		executables = (
+			46AA42880D69399F00234470 /* GSC Breakthrough */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 224999839;
+			PBXWorkspaceStateSaveDate = 224999839;
+		};
+		sourceControlManager = 46AA42920D6939AD00234470 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	46AA42880D69399F00234470 /* GSC Breakthrough */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "GSC Breakthrough";
+		sourceDirectories = (
+		);
+	};
+	46AA42920D6939AD00234470 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	46AA42930D6939AD00234470 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F5F7750F05C6A2B001000001 /* define.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1383, 841}}";
+			sepNavSelRange = "{1186, 0}";
+			sepNavVisRange = "{0, 3263}";
+			sepNavWindowFrame = "{{61, 162}, {1442, 969}}";
+		};
+	};
+}
